@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+            <head>
+                       <title>My HTML Page</title>
+            </head>
+
+            <body>
+                           <h1>My Header Text</h1>
+                           <p>My Paragraph text My paragraph text My paragraph text</p>
+            </body>  
+
+
+</html>
+
