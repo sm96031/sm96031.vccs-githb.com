@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Civic Engagement - Technology & Society</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Civic Engagement: Technology & Society</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sources.html">Sources</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>Technology plays a big role in our society, shaping how we communicate, work, and live.</p>
+        </section>
+        
+        <section>
+            <h2>How Technology Helps Us</h2>
+            <p>Technology is helpful in key areas like communication, education, and work But alos benefits us in many other ways.</p>
+        </section>
+        
+        <section>
+            <h2>The Effects of Technology on Society</h2>
+            <p>Despite its benefits, technology also raises concerns like advances in healthcare, economic changes, and cultural changes.</p>
+        </section>
+        
+        <section>
+            <h2>Balancing Technology's Influence</h2>
+            <p>To maximize the benefits of technology while minimizing its drawbacks, responsible usage and ethical considerations are crucial.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Civic Engagement Project</p>
+    </footer>
+</body>
+</html>
