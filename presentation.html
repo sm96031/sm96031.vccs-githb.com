@@ -42,3 +42,27 @@
                <P> Tracks input and Update the nake movement</P>
                 <p> Checks for collisions and Updates the screen</p> 
   </body>
+
+  <body> 
+                  <h1> Movement controls:</h1>
+                  <p> “This part checks for arrow key presses and moves the snake accordingly.”</p>
+                  <p> python
+if event.key == pygame.K_LEFT:
+    x1_change = -snake_block
+    y1_change = 0
+</p>
+  </body>
+
+  <body> 
+                 <h1> Snake body:</h1>
+                 <p> “The snake is stored in a list of coordinates. Every time it eats, the list gets longer.”</p>
+                 <h1>Food collision:</h1>
+                 <p> “Here, we check if the snake’s head touches the food. If so, a new food is generated and the snake grows.”</p>
+    <p> python
+if x1 == foodx and y1 == foody:
+    foodx = ...
+    Length_of_snake += 1
+</p>
+  </body>
+
+  
